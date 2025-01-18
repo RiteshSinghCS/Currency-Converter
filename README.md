@@ -15,9 +15,9 @@ Welcome to the **Currency Converter** repository! 🌟 This simple and intuitive
 
 ## 🎥 Live Demo
 
-Try the converter live: [🔗 Use Now](#) *(Add the live demo link here)*
+Try the converter live: [🔗 Use Now](https://riteshsinghcs.github.io/Currency-Converter/) 
 
-![💱 App Preview](#) *(Add a screenshot or GIF of the currency converter in action)*
+![💱 App Preview](https://i.postimg.cc/rwKb3538/Screenshot-2025-01-19-043952.png)
 
 ---
 
